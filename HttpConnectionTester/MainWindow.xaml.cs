@@ -63,7 +63,10 @@ namespace HttpConnectionTester
             btnStart.IsEnabled = false;
             worker.RunWorkerAsync();               
         }
-
+        
+        /// <summary>
+        /// git hub test
+        /// </summary>
         private void InitiateURLValues()
         {
             m_arrURL[0] = "http://130.1.24.243/soa-infra/services/m90_syds/SYDS_ERP_GetCOAInformation/bpel_syds_getcoa_client_ep";
