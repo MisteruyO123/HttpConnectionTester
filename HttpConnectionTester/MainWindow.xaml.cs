@@ -63,9 +63,9 @@ namespace HttpConnectionTester
             btnStart.IsEnabled = false;
             worker.RunWorkerAsync();               
         }
-        
+       
         /// <summary>
-        /// git hub testsss
+        /// this is git hub test.
         /// </summary>
         private void InitiateURLValues()
         {
